@@ -82,9 +82,3 @@ The testbench checks:
 - Document design decisions and lessons learned
 - Build a UART receiver
 - Connect the transmitter and receiver in a loopback test
-
-## Development Notes
-
-The initial RTL and testbench were generated with assistance from
-OpenAI Codex. I’m using them as a starting point to study, test,
-and extend the design.
